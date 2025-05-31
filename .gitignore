@@ -1,0 +1,25 @@
+.idea
+target
+*.iml
+
+# Eclipse files
+.classpath
+.project
+# IntelliJ IDEA files
+*.ipr
+*.iws
+# NetBeans files
+nb-configuration.xml
+# VS Code files
+.vscode/
+# Maven files
+.mvn/
+# Gradle files
+.gradle/
+# Build directories
+build/
+# Logs
+*.log
+# OS generated files
+.DS_Store
+*.ps1
